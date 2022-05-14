@@ -1,4 +1,4 @@
-### Brownie version frnedly tag for @superfluid-finance/protocol-monorepo
+### Brownie version friendly tag for @superfluid-finance/protocol-monorepo
 ##### packages/ethereum-contracts only
 
 #### Install
