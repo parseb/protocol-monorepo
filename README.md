@@ -12,9 +12,7 @@ if you are following: [Using Superfluid at the Smart Contract Level
 <br>
 
 ```
-import { ISuperfluid }from "parseb/protocol-monorepo@brownie-v1.2.2/contracts/interfaces/superfluid/ISuperfluid.sol"; //"@superfluid-finance/ethereum-monorepo/packages/ethereum-contracts/contracts/interfaces/superfluid/ISuperfluid.sol";
-
+import { ISuperfluid }from "parseb/protocol-monorepo@brownie-v1.2.2/contracts/interfaces/superfluid/ISuperfluid.sol"; 
 import { IConstantFlowAgreementV1 } from "parseb/protocol-monorepo@brownie-v1.2.2/contracts/interfaces/agreements/IConstantFlowAgreementV1.sol";
-
 import { IInstantDistributionAgreementV1 } from "parseb/protocol-monorepo@brownie-v1.2.2/contracts/interfaces/agreements/IInstantDistributionAgreementV1.sol";
 ```
