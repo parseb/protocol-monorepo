@@ -1,13 +1,9 @@
-This is a mono repo of Superfluid Protocol.
+Superfluid Protocol
 
-All packages inside this repo will have their own LICENSE files.
+Copyright @ 2020 Superfluid Finance Ltd
 
-Notably:
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-- packages/spec-haskell - MIT
-- packages/ethereum-contracts - AGPLv3
-- packages/subgraph - AGPLv3
-- packages/js-sdk - MIT
-- packages/sdk-core - MIT
-- packages/sdk-redux - MIT
-- packages/hot-fuzz - AGPLv3
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
